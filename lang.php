@@ -1,1 +1,1 @@
-<h2>Hello world home page.</h2>
+<h2>Hello</h2>
