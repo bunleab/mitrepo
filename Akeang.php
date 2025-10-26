@@ -1,1 +1,17 @@
-https://github.com/bunleab/mitrepo.git
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Form</title>
+</head>
+<body>
+    <form action="">
+        Username: <input type="text">
+        Email: <input type="email">
+        Pass : <input type = "password">
+        con_pass : <input type="password">
+        <input type="Login" value="Send">
+    </form>
+</body>
+</html>
